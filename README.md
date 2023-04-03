@@ -2,8 +2,10 @@
 
 
 ## Description
-I was givin a starter code for this weeks activity.
-I had to use Jquery and other syntax to complete the acceptance criteria 
+This challange seemd easy at first then it wa a bit harder than expected
+i had to learn how to save specific id's to local storage 
+Use day js 
+And how to remove and toggle classes 
 
 ##  User Story
 AS AN employee with a busy schedule
